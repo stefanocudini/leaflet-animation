@@ -1,0 +1,33 @@
+{
+  "name": "leaflet-animation",
+  "version": "1.0.0",
+  "description": "Make a GIF animation from a Leaflet map",
+  "main": "src/leaflet-animation.js",
+  "homepage": "http://labs.easyblog.it/maps/leaflet-animation/",
+  "author": {
+    "name": "Stefano Cudini",
+    "email": "stefano.cudini@gmail.com",
+    "url": "http://labs.easyblog.it/"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanocudini/leaflet-animation.git"
+  },
+  "keywords": [
+    "leaflet",
+    "plugin",
+    "map",
+    "webgis"
+  ],
+  "author": "Stefano Cudini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanocudini/leaflet-animation/issues"
+  }
+}
